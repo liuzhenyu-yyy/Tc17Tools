@@ -1,0 +1,23 @@
+Package: Tc17Tools
+Type: Package
+Title: R tool box of Zhenyu Liu
+Version: 0.1.0
+Author: Zhenyu Liu
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Some frequently used R functions during work.
+    A small package to make my life easier.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.2
+Imports: 
+    Biostrings,
+    dplyr,
+    GenomicRanges,
+    ggplot2,
+    grid,
+    MASS,
+    Vennerable,
+    BiocGenerics
+Depends: 
+    R (>= 2.10)
