@@ -3,7 +3,7 @@ Type: Package
 Title: R tool box of Zhenyu Liu
 Version: 0.1.0
 Author: Zhenyu Liu
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: Zhenyu Liu <liuzhenyu@pku.edu.cn>
 Description: Some frequently used R functions during work.
     A small package to make my life easier.
 License: MIT + file LICENSE
