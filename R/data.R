@@ -21,3 +21,11 @@
 #' @examples
 #' head(protien.info.hg38)
 "protien.info.hg38"
+
+#' gene.info.mm10
+#'
+#' Gene annotation table for mm10 (Ensembl release 101)
+#'
+#' @examples
+#' head(gene.info.mm10)
+"gene.info.mm10"
